@@ -2,7 +2,7 @@ reschema
 ========
 
 This directory contains a library for parsing <rest-schema> objects
-that describe a REST API.  The <rest-schema> format is described in GL4v2.
+that describe a REST API.  The <rest-schema> format is described in `The documentation https://support.riverbed.com/apis/steelscript/reschema/index.html`_.
 
 License
 =======
